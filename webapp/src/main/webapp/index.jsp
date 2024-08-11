@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-	  <h1>Tom Cat Deploy v2.2 </h1>
+	  <h1>Tom Cat Deploy v2.3 </h1>
     <h1>Register</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
